@@ -1,1 +1,2 @@
-# kanags
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
